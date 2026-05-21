@@ -1,6 +1,6 @@
 <?php
 // index.php - Форма с валидацией на бэкенде, подсветкой ошибок и Cookies
-// НЕТ session_start() — сессии НЕ используются
+
 
 // Функция для получения значения из Cookies или GET (приоритет: GET > Cookie)
 function getValue($fieldName, $default = '') {
