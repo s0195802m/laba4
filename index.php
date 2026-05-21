@@ -199,6 +199,6 @@ $allowed_languages = ['Pascal', 'C', 'C++', 'JavaScript', 'PHP', 'Python', 'Java
             <a href="bd.html" class="action-btn secondary">🗄️ БД</a>
         </div>
     </main>
-    <footer><div class="container"><p>Лабораторная №4 — Cookies | Май 2026</p></div></footer>
+    <footer><div class="container"><p>Лабораторная №4 — Cookies </p></div></footer>
 </body>
 </html>
