@@ -80,9 +80,9 @@ $allowed_languages = ['Pascal', 'C', 'C++', 'JavaScript', 'PHP', 'Python', 'Java
     <header>
         <div class="container">
             <h1>📡 Программно-аппаратные средства Web</h1>
-            <p class="subtitle">(с) Сергей Синица 2020</p>
+           
             <h2>Задание 4. Валидация формы с использованием Cookies</h2>
-            <p class="student-info">Выполнил: Дмитрий | Логин: u82461</p>
+            
         </div>
     </header>
 
